@@ -13,7 +13,7 @@ public class HelloWorldController {
 			+
 			"\n"
 			+
-			"This app has been deployed using jenkins (v1.2)"
+			"This app has been deployed using jenkins (v1.4)"
 			+
 			"\n";
 	}
